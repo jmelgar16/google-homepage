@@ -1,3 +1,1 @@
-Recreating the google homepage
-
-Skills demonstrated:
+Google homepage clone
